@@ -1,1 +1,0 @@
-{"mappings":"AAAA;AAEA,QAAQ,GAAG,CAAC;AAEZ,QAAQ,GAAG,CAAC,SAAS,aAAa,CAAC","sources":["script/view/productsView.js"],"sourcesContent":["'use strict';\r\n\r\nconsole.log('hola');\r\n\r\nconsole.log(document.querySelector('.lolo'));"],"names":[],"version":3,"file":"products.81b11242.js.map","sourceRoot":"/__parcel_source_root/"}
