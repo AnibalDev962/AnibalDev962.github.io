@@ -1,0 +1,2 @@
+!function(){console.log("hello papi"),document.querySelector(".full-img-modal");let e=document.querySelector(".full-img-modal__container__close-button");document.querySelector(".full-img-modal__container__download-button"),document.querySelector(".full-img-modal__container__img"),document.querySelector(".save-to-fav-button"),e.addEventListener("click",function(e){e.preventDefault(),history.back()})}();
+//# sourceMappingURL=viewer.3058c441.js.map
